@@ -1,5 +1,5 @@
 # Bookshop/Library Management 
-===============================
+--------------------------------------
 Programme made for bookshop/library management. Coded in Python39 and the databse is created in mySQL. <br>
 ## Requirements
 ------------------
